@@ -1,9 +1,9 @@
 {
   "data": [
     {
-      "type3": "RsRRRR",
-      "type2": "AAA",
-      "type": "BBBBB",
+      "type3": "60000",
+      "type2": "5000",
+      "type": "10000",
       "id": "1",
       "attributes": {
         "title": "JSON:API paints my bikeshed!",
