@@ -1,7 +1,8 @@
 {
   "data": [
     {
-      "type": "AAA",
+      "type2": "AAA",
+      "type": "Dedaaa",
       "id": "1",
       "attributes": {
         "title": "JSON:API paints my bikeshed!",
